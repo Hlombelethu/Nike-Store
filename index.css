@@ -63,7 +63,7 @@ nav .navTop {
 }
 
 .slider {
-  background-image: url(images/brick\ wall.jpg);
+  background-image: url("brick\ wall.jpg");
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
   background-repeat: no-repeat;
   background-size: cover;
